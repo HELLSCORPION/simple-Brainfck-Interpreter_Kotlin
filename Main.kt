@@ -1,7 +1,7 @@
 fun main (args : Array<String>){
     var tmp = ""
     args.forEach { x -> tmp += x }
-    val code = "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>."
+    val code = ""
 
 
     start(code)
